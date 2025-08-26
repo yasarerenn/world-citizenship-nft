@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "Evrensel Dijital Kimliğiniz",
+    "subtitle": "Blockchain destekli kimlik doğrulaması ile küresel vatandaşlık hareketine katılın",
+    "description": "Benzersiz Dünya Vatandaşlığı NFT'nizi mint edin ve Stacks blockchain üzerinde küresel yönetişim, sosyal projeler ve evrensel kimlik doğrulamasına katılın."
+  },
+  "citizenship": {
+    "status": "Vatandaşlık Durumu",
+    "hasCitizenship": "Dünya Vatandaşlığınız var!",
+    "noCitizenship": "Henüz Dünya Vatandaşlığınız yok",
+    "tokenId": "Token ID",
+    "mintDate": "Mint Tarihi",
+    "checkingStatus": "Vatandaşlık durumu kontrol ediliyor...",
+    "mintSuccess": "Tebrikler! Dünya Vatandaşlığı NFT'niz başarıyla mint edildi!",
+    "mintError": "Mint işlemi sırasında bir hata oluştu. Lütfen tekrar deneyin."
+  },
+  "features": {
+    "title": "Evrensel Haklar",
+    "subtitle": "Dünya vatandaşı olarak sahip olduğunuz haklar",
+    "universalDAOVoting": {
+      "title": "Evrensel DAO Oy Hakkı",
+      "description": "Küresel karar alma süreçlerinde oy kullanma hakkı"
+    },
+    "globalSocialProjects": {
+      "title": "Küresel Sosyal Projeler",
+      "description": "Dünya çapındaki sosyal projelere katılma imkanı"
+    },
+    "universalIdentityVerification": {
+      "title": "Evrensel Kimlik Doğrulama",
+      "description": "Uluslararası kimlik doğrulama sistemlerinde kullanım"
+    }
+  },
+  "stats": {
+    "title": "Küresel Etki",
+    "totalCitizens": "Dünya Vatandaşı",
+    "countries": "Ülke",
+    "daoVotingRights": "DAO Oy Hakkı"
+  },
+  "citizenshipForm": {
+    "title": "Vatandaşlık Başvurusu",
+    "nameLabel": "İsim",
+    "namePlaceholder": "Adınız",
+    "descriptionLabel": "Açıklama",
+    "descriptionPlaceholder": "Kendiniz hakkında kısa bir açıklama",
+    "profileImageLabel": "Profil Resmi URL (Opsiyonel)",
+    "profileImagePlaceholder": "https://example.com/image.jpg",
+    "createNFTButton": "Vatandaşlık NFT'si Oluştur",
+    "viewNFTButton": "NFT'nizi Görüntüle",
+    "alreadyCitizen": "Zaten Dünya Vatandaşısınız!",
+    "tokenIdLabel": "Token ID"
+  }
+}

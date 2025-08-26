@@ -1,0 +1,49 @@
+{
+  "title": "World Citizens Community",
+  "subtitle": "We come together as a global community. Share your ideas, participate in events, and build a better world together.",
+  "tabs": {
+    "feed": "Feed",
+    "events": "Events",
+    "members": "Members"
+  },
+  "filters": {
+    "title": "Filters",
+    "search": "Search in posts...",
+    "category": "Category",
+    "all": "All",
+    "general": "General",
+    "proposal": "Proposal",
+    "event": "Event",
+    "help": "Help",
+    "showcase": "Showcase",
+    "newPost": "New Post"
+  },
+  "post": {
+    "founder": "Founder",
+    "pinned": "Pinned",
+    "views": "views",
+    "share": "Share",
+    "loading": "Loading community..."
+  },
+  "events": {
+    "online": "Online",
+    "offline": "In Person",
+    "hybrid": "Hybrid",
+    "attendees": "attendees",
+    "organizer": "Organizer:",
+    "joinEvent": "Join Event"
+  },
+  "members": {
+    "title": "Member List",
+    "subtitle": "Community members list will be added soon.",
+    "viewProfile": "View Your Profile"
+  },
+  "createPost": {
+    "title": "Create New Post",
+    "titlePlaceholder": "Post title...",
+    "contentPlaceholder": "Write your content...",
+    "tagsPlaceholder": "Tags (comma separated)",
+    "cancel": "Cancel",
+    "submit": "Submit"
+  }
+}

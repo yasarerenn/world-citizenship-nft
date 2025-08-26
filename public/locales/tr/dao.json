@@ -1,0 +1,141 @@
+{
+  "title": "DAO Yönetişimi",
+  "subtitle": "Topluluk kararlarına katılın, oy verin ve değişim yaratın",
+  "createProposal": "Teklif Oluştur",
+  "stats": {
+    "activeProposals": "Aktif Teklif",
+    "completed": "Tamamlanan",
+    "participationRate": "Katılım Oranı",
+    "minProposalFee": "Min. Teklif Ücreti"
+  },
+  "tabs": {
+    "all": "Tüm Teklifler",
+    "active": "Aktif Teklifler",
+    "completed": "Tamamlanan",
+    "pending": "Bekleyen"
+  },
+  "filters": {
+    "all": "Tüm Türler",
+    "governance": "Yönetişim",
+    "funding": "Finansman",
+    "technical": "Teknik",
+    "social": "Sosyal",
+    "other": "Diğer"
+  },
+  "sort": {
+    "newest": "En Yeni",
+    "oldest": "En Eski",
+    "mostVotes": "En Çok Oy",
+    "endingSoon": "Yakında Bitiyor"
+  },
+  "proposal": {
+    "createdBy": "Oluşturan",
+    "timeRemaining": "Kalan Süre",
+    "ended": "Oylama Bitti",
+    "totalVotes": "Toplam Oy",
+    "yesVotes": "Evet Oyları",
+    "noVotes": "Hayır Oyları",
+    "status": {
+      "active": "Aktif",
+      "completed": "Tamamlandı",
+      "pending": "Bekliyor",
+      "executed": "Uygulandı"
+    },
+    "types": {
+      "governance": "Yönetişim",
+      "funding": "Finansman",
+      "technical": "Teknik",
+      "social": "Sosyal",
+      "other": "Diğer"
+    },
+    "voteOptions": {
+      "yes": "Evet",
+      "no": "Hayır"
+    }
+  },
+  "createModal": {
+    "title": "Yeni Teklif Oluştur",
+    "titleLabel": "Teklif Başlığı",
+    "titlePlaceholder": "Teklif başlığını girin",
+    "descriptionLabel": "Açıklama",
+    "descriptionPlaceholder": "Teklifinizi detaylı olarak açıklayın...",
+    "typeLabel": "Teklif Türü",
+    "durationLabel": "Oylama Süresi",
+    "durationDays": "gün",
+    "optionsLabel": "Oylama Seçenekleri",
+    "addOption": "Seçenek Ekle",
+    "removeOption": "Seçeneği Kaldır",
+    "optionPlaceholder": "Seçenek",
+    "feeNotice": "Bu teklifi göndermek için oluşturma ücreti alınacaktır.",
+    "errors": {
+      "titleRequired": "Başlık gereklidir",
+      "descriptionRequired": "Açıklama gereklidir",
+      "minimumOptions": "En az 2 oylama seçeneği gereklidir"
+    }
+  },
+  "comments": {
+    "title": "Yorumlar ve Tartışma",
+    "addComment": "Yorum ekle...",
+    "replies": "yanıt",
+    "reply": "Yanıtla",
+    "replyTo": "Yanıtla:",
+    "noComments": "Henüz yorum yok. Düşüncelerinizi paylaşan ilk kişi olun!"
+  },
+  "social": {
+    "like": "Beğen",
+    "comment": "Yorum",
+    "share": "Paylaş",
+    "liked": "Beğenildi"
+  },
+  "search": {
+    "placeholder": "Teklif ara..."
+  },
+  "controls": {
+    "filter": "Filtrele",
+    "sort": {
+      "date": "Tarih",
+      "title": "Başlık", 
+      "fee": "Ücret",
+      "creator": "Oluşturan"
+    }
+  },
+  "filterTypes": {
+    "label": "Teklif Türü",
+    "all": "Tüm Türler",
+    "yes-no": "Evet/Hayır",
+    "multiple-choice": "Çoktan Seçmeli", 
+    "numeric": "Sayısal"
+  },
+  "results": {
+    "proposalsFound": "teklif bulundu",
+    "filtered": "filtrelenmiş:",
+    "total": "toplam",
+    "sortLabel": "Sıralama:",
+    "ascending": "Artan",
+    "descending": "Azalan"
+  },
+  "noResults": {
+    "title": "Teklif Bulunamadı",
+    "searchMessage": "için sonuç bulunamadı",
+    "filterMessage": "Seçilen filtrelere uygun teklif bulunamadı",
+    "clearFilters": "Filtreleri Temizle"
+  },
+  "proposalCard": {
+    "vote": "Oy Kullan",
+    "share": "Paylaş",
+    "expired": "Süresi Doldu"
+  },
+  "timeUnits": {
+    "days": "gün",
+    "hours": "saat",
+    "minutes": "dakika",
+    "day": "gün",
+    "hour": "saat",
+    "minute": "dakika"
+  },
+  "status": {
+    "active": "Aktif",
+    "completed": "Tamamlandı",
+    "pending": "Beklemede"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Mesajlar",
+  "loading": "Mesajlar yükleniyor...",
+  "searchPlaceholder": "Konuşmalarda ara...",
+  "online": "Çevrimiçi",
+  "lastSeen": "Son görülme:",
+  "unknown": "Bilinmiyor",
+  "members": "üye",
+  "noMessages": "Henüz mesaj yok",
+  "messageInput": "Mesajınızı yazın...",
+  "empty": {
+    "title": "Mesajlaşmaya Başlayın",
+    "subtitle": "Dünya vatandaşları ile doğrudan iletişim kurun",
+    "startChat": "Yeni Sohbet Başlat"
+  },
+  "newChat": {
+    "title": "Yeni Sohbet",
+    "searchPlaceholder": "Kullanıcı adı veya adres ara...",
+    "cancel": "İptal",
+    "start": "Sohbet Başlat"
+  }
+}

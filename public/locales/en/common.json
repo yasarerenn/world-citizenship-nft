@@ -1,0 +1,70 @@
+{
+  "site": {
+    "title": "World Citizenship NFT",
+    "subtitle": "Universal Passport",
+    "description": "Universal identity NFT on Stacks blockchain"
+  },
+  "locale": "English",
+  "nav": {
+    "home": "Home",
+    "dao": "DAO",
+    "community": "Community",
+    "profile": "Profile",
+    "messages": "Messages",
+    "events": "Events"
+  },
+  "wallet": {
+    "connect": "Connect Wallet",
+    "disconnect": "Disconnect",
+    "selectWallet": "Select Wallet",
+    "connecting": "Connecting...",
+    "connected": "Connected",
+    "notFound": "Wallet Not Found",
+    "installMessage": "Please install Hiro Wallet or Xverse wallet application.",
+    "connectionError": "Connection Error",
+    "connectionErrorMessage": "An error occurred during wallet connection. Please try again.",
+    "hiro": "Hiro Wallet",
+    "hiroDesc": "Popular Stacks wallet",
+    "xverse": "Xverse",
+    "xverseDesc": "Multi-chain wallet",
+    "demo": "Demo Mode",
+    "demoDesc": "Demo account for testing"
+  },
+  "buttons": {
+    "mint": "Mint NFT",
+    "minting": "Minting...",
+    "create": "Create",
+    "creating": "Creating...",
+    "vote": "Vote",
+    "voting": "Voting...",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "send": "Send",
+    "reply": "Reply",
+    "like": "Like",
+    "share": "Share",
+    "comment": "Comment",
+    "viewAll": "View All",
+    "loadMore": "Load More",
+    "filter": "Filter",
+    "sort": "Sort",
+    "search": "Search",
+    "ok": "OK"
+  },
+  "modals": {
+    "selectWallet": "Select Wallet",
+    "walletNotFound": "Wallet Not Found",
+    "installWalletMessage": "Please install Hiro Wallet or Xverse wallet application.",
+    "connectionError": "Connection Error",
+    "connectionErrorMessage": "An error occurred during wallet connection. Please try again.",
+    "missingInfo": "Missing Information",
+    "fillRequiredFields": "Please fill in the name and description fields.",
+    "walletConnectionRequired": "Wallet Connection Required",
+    "walletConnectionRequiredMessage": "Wallet connection is required to create NFT.",
+    "nftMintedDemo": "NFT Successfully Minted! (Demo)",
+    "nftMintedSuccess": "Your World Citizenship NFT has been successfully created!"
+  }
+}

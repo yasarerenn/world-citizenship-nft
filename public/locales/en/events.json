@@ -1,0 +1,56 @@
+{
+  "title": "Events and Announcements",
+  "subtitle": "Join community events, follow important announcements and expand the world citizens network.",
+  "loading": "Loading events...",
+  "tabs": {
+    "events": "Events",
+    "announcements": "Announcements"
+  },
+  "filters": {
+    "title": "Filters",
+    "search": "Search events...",
+    "category": "Category",
+    "all": "All",
+    "education": "Education",
+    "governance": "Governance", 
+    "social": "Social",
+    "technical": "Technical",
+    "community": "Community",
+    "notifications": "Notifications"
+  },
+  "events": {
+    "upcoming": "Upcoming Events",
+    "create": "Create Event",
+    "free": "Free",
+    "participants": "participants",
+    "organizer": "Organizer",
+    "joinMeeting": "Join Meeting",
+    "join": "Join",
+    "attending": "Attending",
+    "share": "Share",
+    "approvalRequired": "Approval required"
+  },
+  "eventTypes": {
+    "online": "Online",
+    "offline": "In Person",
+    "hybrid": "Hybrid"
+  },
+  "announcements": {
+    "title": "Announcements",
+    "markAllRead": "Mark all as read",
+    "pinned": "Pinned",
+    "expiresAt": "Expires on:",
+    "priorities": {
+      "urgent": "Urgent",
+      "high": "High", 
+      "medium": "Medium",
+      "low": "Low"
+    }
+  },
+  "createModal": {
+    "title": "Create Event",
+    "comingSoon": "Event Creation",
+    "description": "Event creation feature will be added soon.",
+    "ok": "OK"
+  }
+}

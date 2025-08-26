@@ -1,0 +1,38 @@
+{
+  "title": "Profil",
+  "loading": "Profil yükleniyor...",
+  "notFound": "Profil bulunamadı",
+  "backToHome": "Ana Sayfaya Dön",
+  "joined": "Katıldı:",
+  "citizenship": {
+    "title": "Dünya Vatandaşı",
+    "tokenId": "Token ID:"
+  },
+  "stats": {
+    "proposals": "Teklif",
+    "votes": "Oy", 
+    "score": "Puan",
+    "badges": "Rozet"
+  },
+  "socialLinks": {
+    "title": "Sosyal Bağlantılar"
+  },
+  "badges": {
+    "title": "Rozetler"
+  },
+  "recentActivity": {
+    "title": "Son Aktiviteler"
+  },
+  "edit": {
+    "edit": "Düzenle",
+    "share": "Paylaş",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "displayNamePlaceholder": "Görünen İsim",
+    "bioPlaceholder": "Biyografi",
+    "twitterPlaceholder": "Twitter kullanıcı adı",
+    "linkedinPlaceholder": "LinkedIn profili", 
+    "githubPlaceholder": "GitHub kullanıcı adı",
+    "websitePlaceholder": "Website URL"
+  }
+}

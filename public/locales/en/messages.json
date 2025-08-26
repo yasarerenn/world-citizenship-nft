@@ -1,0 +1,22 @@
+{
+  "title": "Messages",
+  "loading": "Loading messages...",
+  "searchPlaceholder": "Search conversations...",
+  "online": "Online",
+  "lastSeen": "Last seen:",
+  "unknown": "Unknown",
+  "members": "members",
+  "noMessages": "No messages yet",
+  "messageInput": "Type your message...",
+  "empty": {
+    "title": "Start Messaging",
+    "subtitle": "Connect directly with world citizens",
+    "startChat": "Start New Chat"
+  },
+  "newChat": {
+    "title": "New Chat",
+    "searchPlaceholder": "Search username or address...",
+    "cancel": "Cancel",
+    "start": "Start Chat"
+  }
+}

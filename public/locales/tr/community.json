@@ -1,0 +1,49 @@
+{
+  "title": "Dünya Vatandaşları Topluluğu",
+  "subtitle": "Küresel bir topluluk olarak bir araya geliyoruz. Fikirlerinizi paylaşın, etkinliklere katılın ve birlikte daha iyi bir dünya inşa edin.",
+  "tabs": {
+    "feed": "Akış",
+    "events": "Etkinlikler",
+    "members": "Üyeler"
+  },
+  "filters": {
+    "title": "Filtreler",
+    "search": "Gönderilerde ara...",
+    "category": "Kategori",
+    "all": "Tümü",
+    "general": "Genel",
+    "proposal": "Teklif",
+    "event": "Etkinlik",
+    "help": "Yardım",
+    "showcase": "Vitrin",
+    "newPost": "Yeni Gönderi"
+  },
+  "post": {
+    "founder": "Kurucu",
+    "pinned": "Sabitlendi",
+    "views": "görüntülenme",
+    "share": "Paylaş",
+    "loading": "Topluluk yükleniyor..."
+  },
+  "events": {
+    "online": "Online",
+    "offline": "Yüz Yüze",
+    "hybrid": "Hibrit",
+    "attendees": "katılımcı",
+    "organizer": "Organizatör:",
+    "joinEvent": "Etkinliğe Katıl"
+  },
+  "members": {
+    "title": "Üye Listesi",
+    "subtitle": "Topluluk üyeleri listesi yakında eklenecek.",
+    "viewProfile": "Profilinizi Görüntüleyin"
+  },
+  "createPost": {
+    "title": "Yeni Gönderi Oluştur",
+    "titlePlaceholder": "Gönderi başlığı...",
+    "contentPlaceholder": "İçeriğinizi yazın...",
+    "tagsPlaceholder": "Etiketler (virgülle ayırın)",
+    "cancel": "İptal",
+    "submit": "Gönder"
+  }
+}

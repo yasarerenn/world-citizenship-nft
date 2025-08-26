@@ -1,0 +1,141 @@
+{
+  "title": "DAO Governance",
+  "subtitle": "Participate in community decisions, vote, and create change",
+  "createProposal": "Create Proposal",
+  "stats": {
+    "activeProposals": "Active Proposals",
+    "completed": "Completed",
+    "participationRate": "Participation Rate",
+    "minProposalFee": "Min. Proposal Fee"
+  },
+  "tabs": {
+    "all": "All Proposals",
+    "active": "Active Proposals",
+    "completed": "Completed",
+    "pending": "Pending"
+  },
+  "filters": {
+    "all": "All Types",
+    "governance": "Governance",
+    "funding": "Funding",
+    "technical": "Technical",
+    "social": "Social",
+    "other": "Other"
+  },
+  "sort": {
+    "newest": "Newest First",
+    "oldest": "Oldest First",
+    "mostVotes": "Most Votes",
+    "endingSoon": "Ending Soon"
+  },
+  "proposal": {
+    "createdBy": "Created by",
+    "timeRemaining": "Time Remaining",
+    "ended": "Voting Ended",
+    "totalVotes": "Total Votes",
+    "yesVotes": "Yes Votes",
+    "noVotes": "No Votes",
+    "status": {
+      "active": "Active",
+      "completed": "Completed",
+      "pending": "Pending",
+      "executed": "Executed"
+    },
+    "types": {
+      "governance": "Governance",
+      "funding": "Funding", 
+      "technical": "Technical",
+      "social": "Social",
+      "other": "Other"
+    },
+    "voteOptions": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "createModal": {
+    "title": "Create New Proposal",
+    "titleLabel": "Proposal Title",
+    "titlePlaceholder": "Enter proposal title",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Describe your proposal in detail...",
+    "typeLabel": "Proposal Type",
+    "durationLabel": "Voting Duration",
+    "durationDays": "days",
+    "optionsLabel": "Voting Options",
+    "addOption": "Add Option",
+    "removeOption": "Remove Option",
+    "optionPlaceholder": "Option",
+    "feeNotice": "A creation fee will be charged for submitting this proposal.",
+    "errors": {
+      "titleRequired": "Title is required",
+      "descriptionRequired": "Description is required",
+      "minimumOptions": "At least 2 voting options are required"
+    }
+  },
+  "comments": {
+    "title": "Comments & Discussion",
+    "addComment": "Add a comment...",
+    "replies": "replies",
+    "reply": "Reply",
+    "replyTo": "Reply to",
+    "noComments": "No comments yet. Be the first to share your thoughts!"
+  },
+  "social": {
+    "like": "Like",
+    "comment": "Comment", 
+    "share": "Share",
+    "liked": "Liked"
+  },
+  "search": {
+    "placeholder": "Search proposals..."
+  },
+  "controls": {
+    "filter": "Filter",
+    "sort": {
+      "date": "Date",
+      "title": "Title", 
+      "fee": "Fee",
+      "creator": "Creator"
+    }
+  },
+  "filterTypes": {
+    "label": "Proposal Type",
+    "all": "All Types",
+    "yes-no": "Yes/No",
+    "multiple-choice": "Multiple Choice", 
+    "numeric": "Numeric"
+  },
+  "results": {
+    "proposalsFound": "proposals found",
+    "filtered": "filtered:",
+    "total": "total",
+    "sortLabel": "Sort:",
+    "ascending": "Ascending",
+    "descending": "Descending"
+  },
+  "noResults": {
+    "title": "No Proposals Found",
+    "searchMessage": "No results found for",
+    "filterMessage": "No proposals match the selected filters",
+    "clearFilters": "Clear Filters"
+  },
+  "proposalCard": {
+    "vote": "Vote",
+    "share": "Share",
+    "expired": "Expired"
+  },
+  "timeUnits": {
+    "days": "days",
+    "hours": "hours",
+    "minutes": "minutes",
+    "day": "day",
+    "hour": "hour",
+    "minute": "minute"
+  },
+  "status": {
+    "active": "Active",
+    "completed": "Completed",
+    "pending": "Pending"
+  }
+}

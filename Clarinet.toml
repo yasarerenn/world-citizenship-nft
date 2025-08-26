@@ -1,0 +1,30 @@
+[project]
+name = 'world-citizenship-project'
+description = 'Dünya Vatandaşlığı NFT\'si - Evrensel Pasaport'
+authors = ['World Citizenship Project']
+telemetry = true
+cache_dir = '.\.cache'
+requirements = []
+
+[contracts.world-citizenship-nft]
+path = 'contracts/world-citizenship-nft.clar'
+clarity_version = 3
+epoch = 'latest'
+
+[contracts.world-citizenship-dao]
+path = 'contracts/world-citizenship-dao.clar'
+clarity_version = 3
+epoch = 'latest'
+
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
+
+[repl.remote_data]
+enabled = false
+api_url = 'https://api.hiro.so'

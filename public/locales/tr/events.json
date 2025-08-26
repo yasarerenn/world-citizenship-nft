@@ -1,0 +1,56 @@
+{
+  "title": "Etkinlikler ve Duyurular",
+  "subtitle": "Topluluk etkinliklerine katılın, önemli duyuruları takip edin ve dünya vatandaşları ağını genişletin.",
+  "loading": "Etkinlikler yükleniyor...",
+  "tabs": {
+    "events": "Etkinlikler",
+    "announcements": "Duyurular"
+  },
+  "filters": {
+    "title": "Filtreler",
+    "search": "Etkinliklerde ara...",
+    "category": "Kategori",
+    "all": "Tümü",
+    "education": "Eğitim",
+    "governance": "Yönetişim", 
+    "social": "Sosyal",
+    "technical": "Teknik",
+    "community": "Topluluk",
+    "notifications": "Bildirimler"
+  },
+  "events": {
+    "upcoming": "Yaklaşan Etkinlikler",
+    "create": "Etkinlik Oluştur",
+    "free": "Ücretsiz",
+    "participants": "katılımcı",
+    "organizer": "Organizatör",
+    "joinMeeting": "Toplantıya Katıl",
+    "join": "Katıl",
+    "attending": "Katılıyorum",
+    "share": "Paylaş",
+    "approvalRequired": "Onay gerekli"
+  },
+  "eventTypes": {
+    "online": "Online",
+    "offline": "Yüz Yüze",
+    "hybrid": "Hibrit"
+  },
+  "announcements": {
+    "title": "Duyurular",
+    "markAllRead": "Tümünü okundu işaretle",
+    "pinned": "Sabitlendi",
+    "expiresAt": "Son geçerlilik:",
+    "priorities": {
+      "urgent": "Acil",
+      "high": "Yüksek", 
+      "medium": "Orta",
+      "low": "Düşük"
+    }
+  },
+  "createModal": {
+    "title": "Etkinlik Oluştur",
+    "comingSoon": "Etkinlik Oluşturma",
+    "description": "Etkinlik oluşturma özelliği yakında eklenecek.",
+    "ok": "Tamam"
+  }
+}

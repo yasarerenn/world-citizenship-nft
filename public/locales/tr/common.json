@@ -1,0 +1,70 @@
+{
+  "site": {
+    "title": "Dünya Vatandaşlığı NFT",
+    "subtitle": "Evrensel Pasaport",
+    "description": "Stacks blockchain üzerinde evrensel kimlik NFT'si"
+  },
+  "locale": "Turkish",
+  "nav": {
+    "home": "Ana Sayfa",
+    "dao": "DAO",
+    "community": "Topluluk",
+    "profile": "Profil",
+    "messages": "Mesajlar",
+    "events": "Etkinlikler"
+  },
+  "wallet": {
+    "connect": "Cüzdan Bağla",
+    "disconnect": "Bağlantıyı Kes",
+    "selectWallet": "Cüzdan Seç",
+    "connecting": "Bağlanıyor...",
+    "connected": "Bağlandı",
+    "notFound": "Cüzdan Bulunamadı",
+    "installMessage": "Lütfen Hiro Wallet veya Xverse cüzdan uygulamasını yükleyin.",
+    "connectionError": "Bağlantı Hatası",
+    "connectionErrorMessage": "Cüzdan bağlantısı sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+    "hiro": "Hiro Wallet",
+    "hiroDesc": "Popüler Stacks cüzdanı",
+    "xverse": "Xverse",
+    "xverseDesc": "Multi-chain cüzdan",
+    "demo": "Demo Modu",
+    "demoDesc": "Test için demo hesap"
+  },
+  "buttons": {
+    "mint": "NFT Mint Et",
+    "minting": "Mint Ediliyor...",
+    "create": "Oluştur",
+    "creating": "Oluşturuluyor...",
+    "vote": "Oy Ver",
+    "voting": "Oy Veriliyor...",
+    "cancel": "İptal",
+    "close": "Kapat",
+    "save": "Kaydet",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "send": "Gönder",
+    "reply": "Yanıtla",
+    "like": "Beğen",
+    "share": "Paylaş",
+    "comment": "Yorum",
+    "viewAll": "Tümünü Gör",
+    "loadMore": "Daha Fazla Yükle",
+    "filter": "Filtrele",
+    "sort": "Sırala",
+    "search": "Ara",
+    "ok": "Tamam"
+  },
+  "modals": {
+    "selectWallet": "Cüzdan Seç",
+    "walletNotFound": "Cüzdan Bulunamadı",
+    "installWalletMessage": "Lütfen Hiro Wallet veya Xverse cüzdan uygulamasını yükleyin.",
+    "connectionError": "Bağlantı Hatası",
+    "connectionErrorMessage": "Cüzdan bağlantısı sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+    "missingInfo": "Eksik Bilgi",
+    "fillRequiredFields": "Lütfen isim ve açıklama alanlarını doldurun.",
+    "walletConnectionRequired": "Cüzdan Bağlantısı Gerekli",
+    "walletConnectionRequiredMessage": "NFT oluşturmak için cüzdan bağlantısı gereklidir.",
+    "nftMintedDemo": "NFT Başarıyla Mint Edildi! (Demo)",
+    "nftMintedSuccess": "Dünya Vatandaşlığı NFT'niz başarıyla oluşturuldu!"
+  }
+}

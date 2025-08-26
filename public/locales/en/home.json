@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "Your Universal Digital Identity",
+    "subtitle": "Join the global citizenship movement with blockchain-powered identity verification",
+    "description": "Mint your unique World Citizenship NFT and participate in global governance, social projects, and universal identity verification on the Stacks blockchain."
+  },
+  "citizenship": {
+    "status": "Citizenship Status",
+    "hasCitizenship": "You have World Citizenship!",
+    "noCitizenship": "You don't have World Citizenship yet",
+    "tokenId": "Token ID",
+    "mintDate": "Mint Date",
+    "checkingStatus": "Checking citizenship status...",
+    "mintSuccess": "Congratulations! Your World Citizenship NFT has been successfully minted!",
+    "mintError": "An error occurred during minting. Please try again."
+  },
+  "features": {
+    "title": "Universal Rights",
+    "subtitle": "Rights you have as a world citizen",
+    "universalDAOVoting": {
+      "title": "Universal DAO Voting Right",
+      "description": "Right to vote in global decision-making processes"
+    },
+    "globalSocialProjects": {
+      "title": "Global Social Projects",
+      "description": "Opportunity to participate in worldwide social projects"
+    },
+    "universalIdentityVerification": {
+      "title": "Universal Identity Verification",
+      "description": "Usage in international identity verification systems"
+    }
+  },
+  "stats": {
+    "title": "Global Impact",
+    "totalCitizens": "World Citizens",
+    "countries": "Countries",
+    "daoVotingRights": "DAO Voting Rights"
+  },
+  "citizenshipForm": {
+    "title": "Citizenship Application",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your Name",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Brief description about yourself",
+    "profileImageLabel": "Profile Image URL (Optional)",
+    "profileImagePlaceholder": "https://example.com/image.jpg",
+    "createNFTButton": "Create Citizenship NFT",
+    "viewNFTButton": "View Your NFT",
+    "alreadyCitizen": "You are already a World Citizen!",
+    "tokenIdLabel": "Token ID"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Profile",
+  "loading": "Loading profile...",
+  "notFound": "Profile not found",
+  "backToHome": "Back to Home",
+  "joined": "Joined:",
+  "citizenship": {
+    "title": "World Citizen",
+    "tokenId": "Token ID:"
+  },
+  "stats": {
+    "proposals": "Proposals",
+    "votes": "Votes", 
+    "score": "Score",
+    "badges": "Badges"
+  },
+  "socialLinks": {
+    "title": "Social Links"
+  },
+  "badges": {
+    "title": "Badges"
+  },
+  "recentActivity": {
+    "title": "Recent Activities"
+  },
+  "edit": {
+    "edit": "Edit",
+    "share": "Share",
+    "save": "Save",
+    "cancel": "Cancel",
+    "displayNamePlaceholder": "Display Name",
+    "bioPlaceholder": "Biography",
+    "twitterPlaceholder": "Twitter username",
+    "linkedinPlaceholder": "LinkedIn profile", 
+    "githubPlaceholder": "GitHub username",
+    "websitePlaceholder": "Website URL"
+  }
+}
